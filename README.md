@@ -4,7 +4,7 @@
 ### Purpose 
 This is a fun little project that I put together on a whim to allow me to analyze my Audible library and wishlist in order to determine the next book for me to read or purchase.
 
-Over time, I've slowly accumulated a large wishlist by looking up the best books on topics I'm interested in and adding them to my wishlist - but then struggling to pick a book to read next, as well as struggling to quickly determine which books are steeply discounted during site-wide sales (e.g. on black friday when every book is 90% off).
+Over time, I've slowly accumulated a large wishlist by looking up the best books on topics I'm interested in and adding them to my wishlist - but then struggling to pick a book to read next, as well as struggling to quickly determine which books are steeply discounted during site-wide sales without checking each book individually.
 
 Audible, while ultimately reliable and user-friendly for listening to audiobooks, unfortunately makes it difficult to manage or analyze a large library or wishlist. There is no way to export your library or wishlist to a .csv, and it can be remarkably painstaking to click into each book, look at current price and current reviews, and compare with other books in your library or wishlist.
 
